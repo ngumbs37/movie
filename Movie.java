@@ -1,5 +1,3 @@
-package movies;
-
 import java.util.Arrays;
 
 public class Movie {

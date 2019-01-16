@@ -1,5 +1,3 @@
-package movies;
-
 public class MoviesArray {
     public static Movie[] findAll() {
         return new Movie[]{
